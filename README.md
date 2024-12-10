@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://shreyansh0843.github.io/NextFlix/">
-    <img src="ss-homeScreen.png" alt="Nextflix-homeScreen"/>
+    <img src="ss-homepage.png" alt="Nextflix-homeScreen"/>
   </a>
 </p>
 <h1 align="center">
