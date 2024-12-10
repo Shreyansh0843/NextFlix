@@ -43,4 +43,35 @@ CineScope is a dynamic movie discovery web application built with vanilla JavaSc
 ## Getting Started
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/cinescope.git
+git clone https://github.com/Shreyansh0843/NextFlix.git
+
+2. Open project directory
+```bash
+cd cinescope
+
+3. Install dependencies
+```bash
+npm install
+
+4. Run the application using Live Server or your preferred method
+```bash
+npx live-server
+
+## Future Enhancements
+
+Advanced sorting options
+User authentication
+Watchlist functionality
+Personal ratings and reviews
+Movie recommendations based on user preferences
+Integration with external movie APIs
+
+Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details
+Acknowledgments
+
+Movie data sourced from various reliable databases
+Icons from Material Design
+Font families from Google Fonts
