@@ -1,5 +1,12 @@
+<p align="center">
+  <a href="https://shreyansh0843.github.io/NextFlix/">
+    <img src="ss-homeScreen.png" alt="Nextflix-homeScreen"/>
+  </a>
+</p>
+<h1 align="center">
+  NextFlix - Movie Discovery Platform
+</h1>
 
-# NextFlix - Movie Discovery Platform
 
 ## Overview
 CineScope is a dynamic movie discovery web application built with vanilla JavaScript that allows users to explore, search, and filter through a curated collection of films. The platform offers an intuitive interface for movie enthusiasts to find films based on ratings, genres, and custom search criteria.
